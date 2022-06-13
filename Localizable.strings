@@ -1,0 +1,511 @@
+/* 
+  Localizable.strings
+  yoga
+
+  Created by iOS-Programmer-01 on 2021/8/25.
+  Copyright © 2021 maning. All rights reserved.
+*/
+/******** TabBar *********/
+"tab-001" = "HOME";
+"name-001" = "Home";
+"tab-002" = "PROGRAMS";
+"name-002" = "Programs";
+"tab-003" = "CUSTOM";
+"name-003" = "Custom";
+"tab-004" = "PROGRESS";
+"name-004" = "Progress";
+/******** Home *********/
+"txt-001" = "Search";
+"btn-001" = "Favorites";
+"btn-002" = "Recent";
+"amt-001" = "<p> mins";
+"btn-003" = "Suggest a Feature";
+"btn-004" = "Discover More Apps";
+/******** Home->Setting *********/
+"tab-005" = "Settings";
+"pop-001" = "Support 7M!";
+"fun-001" = "Manage Subscription";
+"fun-002" = "Restore Purchase";
+"fun-003" = "Rate Us";
+"fun-004" = "Contact Us";
+"fun-005" = "Reminder";
+"fun-006" = "Apple Health";
+"fun-007" = "Privacy Policy";
+"fun-008" = "Terms of Use";
+"fun-009" = "Reset Settings";
+"ver-001" = "Version";
+/******** Home->Setting->Support 7M! *********/
+"txt-002" = "Exclusive multi-week programs";
+"txt-003" = "Unlimited custom workouts";
+"txt-004" = "Remove all ads";
+"txt-005" = "For less than the price of a coffee!";
+"btn-005" = "Yearly + 7-day free trial";
+"btn-006" = "Month";
+"txt-006" = "Cancel up to 24 hours before trial ends.";
+"txt-007" = "Recurring billing. Cancel anytime.";
+"btn-007" = "CONTINUE";
+/******** Home->Setting->Restore Purchase *********/
+"pop-002" = "No Subscription Found";
+"pop-003" = "Subscription successfully restored.";
+/******** Home->Setting->Reminder *********/
+"title-001" = "Workout Reminder";
+"btn-008" = "SET REMINDER";
+"txt-008" = "Setting a workout reminder will keep you focused and help you achieve your fitness goals faster.";
+"btn-009" = "On";
+"btn-010" = "Off";
+"pop-004" = "Enable Notifications";
+"txt-009" = "To use reminders you must allow notifications in your settings.";
+"btn-011" = "Cancel";
+"btn-012" = "Go to Settings";
+/******** Home->Setting->Apple Health *********/
+"btn-013" = "Connect";
+"btn-014" = "Not now";
+"pop-005" = "Connect to Apple Health\n to Track";
+"txt-010" = "Calories Burned";
+"txt-011" = "Workout Time";
+"txt-012" = "Weight";
+"pop-006" = "Apple Health Integration";
+"txt-013" = "To sync your workout data with Apple Health you need to allow us to access your Apple Health data.";
+"btn-015" = "Go to Apple Health";
+/******** Home->Setting->Reset Settings *********/
+"txt-014" = "Are you sure you want to reset all the settings to default?";
+"btn-016" = "Yes";
+"btn-017" = "No";
+/******** Home->Search *********/
+"tag-001" = "Trending";
+"tag-002" = "Difficulty";
+"tag-003" = "Time";
+"amt-002" = "<p> calories";
+/******** Home->My Favorites \ My Recent *********/
+"txt-015" = "\"Heart\" a workout and they will \nshow up here.";
+"txt-016" = "Your recent workouts will show up here.";
+/******** Home->Workout Detail *********/
+"txt-017" = "I’m working out and getting healthier with this awesome app. Check it out:";
+"amt-003" = "<p> Mins";
+"amt-004" = "<p> Calories";
+"btn-018" = "Music Settings";
+"btn-019" = "Workout Settings";
+"amt-005" = "<p> Exercises";
+"btn-020" = "START";
+"btn-021" = "Get Ready";
+"txt-018" = "Be prepared. Take a deep breath and clear your mind. It's time to start your workout.";
+"btn-022" = "I'm ready!";
+"btn-023" = "Need more time";
+"pop-007" = "Download Failed";
+"txt-019" = "Something went wrong during download, please check your internet connection and try again.";
+"btn-024" = "Retry";
+/******** Home->Workout Detail->Music Settings *********/
+"fun-010" = "Voice Guidance";
+"fun-011" = "Voice Selection";
+"btn-025" = "Save";
+"txt-020" = "Female (default)";
+"txt-021" = "Female";
+"txt-022" = "Male";
+"fun-012" = "Music";
+"fun-013" = "Random";
+"fun-014" = "Shuffle";
+"txt-023" = "Play one song on repeat randomly";
+"txt-024" = "Shuffle through all songs randomly";
+/******** Home->Workout Detail->Workout Settings *********/
+"fun-015" = "Rest Time";
+"fun-016" = "Pose Time";
+"fun-017" = "Cooldown Time";
+"fun-018" = "Circuits";
+"txt-025" = "Yoga workouts include a rest time between poses.";
+"txt-026" = "Yoga workouts don't include a rest time between poses and just flows between them.";
+"txt-027" = "Length of the last pose in each workout.";
+"txt-028" = "Number of times a workout repeats itself.";
+"amt-006" = "<p> secs";
+"amt-007" = "<p> seconds";
+"amt-008" = "<p> minutes";
+"txt-029" = "No Rest";
+"txt-030" = "default";
+/******** Exercise Detail *********/
+"txt-031" = "Was this helpful?";
+/******** Programs *********/
+"btn-026" = "SUGGEST A PROGRAM";
+/******** Program Detail *********/
+"btn-027" = "Reset";
+"pop-008" = "Reset Program";
+"txt-032" = "Are you sure you want to reset your progress in this program? You will start from Day 1 again.";
+"btn-028" = "JOIN PROGRAM";
+"btn-029" = "START PROGRAM";
+"btn-030" = "RESTART PROGRAM";
+"btn-031" = "START DAY <p>";
+"btn-032" = "MORE";
+"btn-033" = "Program Settings";
+"title-002" = "Level <p>";
+"pop-009" = "Jump to Day <p>";
+"txt-033" = "You will skip some workouts in this program, and starts from Day <p>";
+"pop-010" = "Reset back to Day <p>";
+"txt-034" = "You will lose your current progress, and restart the program from Day <p>";
+"btn-034" = "Confirm";
+"title-003" = "Coach Tips";
+/******** Program Day X Detail *********/
+"pop-011" = "Day <p>";
+"amt-009" = "<p> exercises";
+/******** Custom *********/
+"txt-035" = "Build your own yoga session with our easy to use custom yoga builder.";
+"txt-036" = "Tap \"+\" To Start";
+"btn-035" = "Edit";
+"btn-036" = "Delete";
+"pop-012" = "Delete Custom Workout";
+"txt-037" = "Are you sure you want to delete this workout?";
+"btn-037" = "Delete workout";
+/******** Custom->Detail *********/
+"amt-010" = "<p>s rest";
+"amt-011" = "1 circuit";
+"amt-012" = "<p> circuits";
+/******** Custom->Create Step 1 *********/
+"title-004" = "STEP <p> OF 3";
+"txt-038" = "Search poses";
+"btn-038" = "NEXT STEP";
+/******** Custom->Create Step 2 *********/
+"txt-039" = "Tap and drag to re-order";
+"btn-039" = "CONFIRM ORDER";
+/******** Custom->Create Step 3 *********/
+"txt-040" = "NAME YOUR WORKOUT";
+"txt-041" = "WORKOUT NAME";
+"fun-019" = "Total Exercises";
+"amt-013" = "1 exercise";
+"fun-020" = "Exercise Interval Length";
+"fun-021" = "Rest Interval Length";
+"fun-022" = "Circuits Rest Time";
+"fun-023" = "Total Exercise Time";
+//"fun-024" = "Calories Burned"; 和txt-010重复
+"amt-014" = "<p> Cals";
+/******** Progress *********/
+"tab-006" = "CALENDAR";
+"tab-007" = "WEIGHT";
+/******** Progress->Calendar *********/
+"title-005" = "Totals";
+"amt-015" = "WORKOUTS";
+"amt-016" = "MINUTES";
+"amt-017" = "CALORIES";
+"fun-025" = "Workout History";
+"fun-026" = "Your current streak";
+"fun-027" = "Your best streak";
+/******** Progress->Calendar->History *********/
+"btn-040" = "Add Workout";
+"title-006" = "Date";
+"txt-042" = "Workout Name";
+"txt-043" = "Workout Length";
+"title-007" = "Workout Calories";
+"txt-044" = "Calories burned";
+"txt-045" = "Your workout history will show up here.";
+/******** Progress->Weight *********/
+//"title-008" = "Weight"; 和txt-012一样
+"amt-018" = "CURRENT";
+"amt-019" = "CHANGE";
+"txt-046" = "﹡ tap start weight to change";
+"btn-041" = "Week";
+//"btn-042" = "Month"; 和btn-006一样
+"btn-043" = "Year";
+"btn-044" = "All";
+"amt-020" = "BMI";
+"btn-045" = "Calculate your BMI";
+"btn-046" = "ENTER TODAY'S WEIGHT";
+"title-009" = "BMI - Body Mass Index";
+"txt-047" = "The BMI is a measurement of a person's leanness based on their height and weight. Although it has limitations, your BMI can be used as a general indicator for body weight health.";
+"txt-048" = "Under Weight";
+"txt-049" = "Healthy Weight";
+"txt-050" = "Over Weight";
+"txt-051" = "Obesity";
+
+/******** Workout / Program Doing *********/
+"pop-013" = "Quit Workout";
+"txt-052" = "Are you sure you want to quit? If you stop right now, the workout will not be recorded.";
+"txt-053" = "Are you sure you want to quit? If you stop right now, only a partial workout will be recorded.";
+"pop-014" = "WORKOUT COMPLETE";
+"title-010" = "Workout Completed!";
+"txt-054" = "Next Up: <p>";
+/******** Rate Workout / Program *********/
+"txt-055" = "Namaste Yogis!";
+"title-011" = "Rate this workout";
+"txt-056" = "I really don't like it";
+"txt-057" = "It was okay";
+"txt-058" = "Enjoyed it";
+"txt-059" = "I really liked it";
+"txt-060" = "It was brilliant";
+"tag-004" = "Flow";
+"tag-005" = "Time";
+"tag-006" = "Workout";
+"tag-007" = "Program";
+"tag-008" = "Voice";
+"tag-009" = "Music";
+"tag-010" = "Other";
+"btn-047" = "Leave some feedback";
+"btn-048" = "SUBMIT";
+"pop-015" = "Thanks for your rating";
+"pop-016" = "Submit Failed";
+"txt-061" = "Did you enjoy the workout?";
+/******** Rate Us *********/
+//"title-012" = "Rate Us"; 和fun-003一样
+"txt-062" = "Your Opinion Matters to Us";
+"txt-063" = "We work super hard to make the app better for you. Enjoying the app? Leave us a review to help us out.";
+"btn-049" = "Rate Us Now";
+"btn-050" = "Maybe Later";
+"btn-051" = "No, Thanks";
+/******** Additional Items *********/
+"amt-021" = "seconds";
+"amt-022" = "minutes";
+"amt-023" = "minute";
+"btn-052" = "Restart Program";
+"txt-064" = "Are you sure you want to restart your workout program? Progress in the program will be lost. ";
+"btn-053" = "EDIT";
+"btn-054" = "SAVE";
+/******** What's new *********/
+"title-013" = "What's New?";
+"txt-065" = "We have updated our app with the following new features, namaste~";
+/* what's new 有更新的时候要替换 */
+"txt-066" = "Bienvenido Español";
+"txt-067" = "We now support Spanish! Switch the app language from the settings screen. Want us to support your language? Let us know.";
+"txt-068" = "Holiday Spirit";
+"txt-069" = "We have lots of great new content planned for the holidays so make sure to check back often.";
+"txt-070" = "Feedback";
+"txt-071" = "We're always looking for ways to improve the app so keep the suggestions coming...";
+
+//输入BMI
+"txt-072" = "Height";
+//rate workout
+"txt-073" = "EXERCISES";
+"txt-074" = "Exercises";
+"txt-075" = "Minutes";
+"txt-076" = "Calories";
+"txt-077" = "What could be improved?";
+//订阅
+"txt-078" = "Help us create the best workout apps on the App Store by becoming a subscriber.";
+"txt-079" = "Monthly";
+//有网但是下载失败
+"txt-080" = "Something went wrong during the download. If the problem persists, please try again later.";
+//program doing
+"txt-081" = "GET READY";
+"txt-082" = "Skip";
+//搜索点击标签
+"txt-083" = "mins";
+"txt-084" = "calories";
+//custom
+"txt-085" = "no rest";
+//language 此外 各种语言应该以本语言为准如 "English", "简体中文"，等
+"txt-086" = "Language";
+//no results for
+"txt-087" = "No Results for";
+"txt-088" = "No Results";
+//Home
+"txt-089" = "The Latest";
+"txt-090" = "Before You Start";
+"txt-092" = "Good Morning";
+"txt-093" = "Good Afternoon";
+"txt-094" = "Good Night";
+"txt-095" = "Mins";
+//Filter
+"txt-096" = "Filter";
+"txt-097" = "Level";
+"txt-098" = "Beginner";
+"txt-099" = "Intermediate";
+"txt-100" = "Advanced";
+"txt-101" = "APPLY FILTER";
+//On Boarding
+//titles
+"txt-102" = "Find Your Zen";
+"txt-103" = "Quick and Simple";
+"txt-104" = "Protect Your Privacy";
+"txt-105" = "What's your gender?";
+"txt-106" = "What’s your current level of fitness?";
+"txt-107" = "What are your fitness goals?";
+"txt-108" = "Which areas do you want to focus on?";
+"txt-109" = "Tell us more about yourself?";
+"txt-110" = "Stay Active";
+//contents
+"txt-111" = "Practice yoga to reduce stress, increase flexibility, and build strength.";
+"txt-112" = "Learn yoga from the comfort of your home in just 10 minutes a day.";
+"txt-113" = "We need your approval to share some of your data so we can personalize and improve your app experience.";
+"txt-114" = "Answer a few questions so we can recommend the best workouts for you.";
+"txt-115" = "Answer a few questions so we can recommend the best workouts for you.";
+"txt-116" = "Select up to 3";
+"txt-117" = "Select up to 3";
+"txt-118" = "Sharing your details with us helps us better customize our workouts for you.";
+"txt-119" = "We use notifications to keep you on track by sending timely reminders and tips.";
+"txt-120" = "Continue";
+//items
+"txt-121" = "Male";
+"txt-122" = "Female";
+
+"txt-123" = "Lose \nweight";
+"txt-124" = "Get \nin shape";
+"txt-125" = "Reduce \nstress";
+"txt-126" = "Look \nbetter";
+"txt-127" = "Build \nstrength";
+"txt-128" = "Learn\nthe basics";
+"txt-129" = "Feel more\nenergetic";
+"txt-130" = "Boost\nself-esteem";
+
+"txt-131" = "No Preference";
+"txt-132" = "Full Body";
+"txt-133" = "Arms";
+"txt-134" = "Chest";
+"txt-135" = "Abs";
+"txt-136" = "Waist";
+"txt-137" = "Butt";
+"txt-138" = "Legs";
+//item contents
+"txt-139" = "I'm new to yoga or haven't practiced it in a long time.";
+"txt-140" = "I know the basics and try to practice at least once a week.";
+"txt-141" = "I practice yoga regularly and am looking for more of a challenge.";
+
+"txt-142" = "Age";
+"txt-143" = "Enter Age";
+"txt-144" = "Enter Height";
+"txt-145" = "Enter Weight";
+
+"txt-146" = "Feet";
+"txt-147" = "Inches";
+"txt-148" = "Centimeters";
+//premium
+"txt-149" = "Upgrade to premium";
+"txt-150" = "Privacy";
+"txt-151" = "Terms";
+"txt-152" = "Restore";
+//new tag
+"txt-153" = "NEW";
+
+//update
+"txt-154" = "Update Failed";
+"txt-155" = "We couldn't update to the new language pack. Please check your internet connection and try again.";
+"txt-156" = "Try Again";
+
+//exit rating
+"txt-157" = "Exit Rating";
+"txt-158" = "Are you sure you want to exit? If you exit now, your feedback will not be sent to us.";
+
+//subscription
+"txt-159" = "Get ﻿more with\nPremium";
+
+"txt-160" = "Track your progress to see results and personal growth";
+"txt-161" = "Add music to your workouts to crush your goals";
+
+"txt-162" = "More Programs";
+"txt-163" = "Custom Classes";
+"txt-164" = "Progress Tracking";
+"txt-165" = "Music Support";
+
+"txt-166" = "Try Free & Subscribe";
+
+"txt-167" = "Something went wrong during the download. If the problem persists, please try again later.";
+
+// custom
+"txt-168" = "Design Your Yoga Session";
+"txt-169" = "Use our easy to use custom yoga builder";
+
+//localized pay
+"txt-170" = "Try free for";
+"txt-171" = "then";
+"txt-172" = "Cancel anytime.";
+"txt-173" = "free, then";
+
+"txt-174" = "day";
+"txt-175" = "week";
+"txt-176" = "month";
+"txt-177" = "year";
+"txt-178" = "quarter";
+
+"txt-179" = "days";
+"txt-180" = "weeks";
+"txt-181" = "months";
+"txt-182" = "years";
+"txt-183" = "quarters";
+
+"txt-184" = "Daily";
+"txt-185" = "Weekly";
+"txt-186" = "Monthly";
+"txt-187" = "Yearly";
+"txt-188" = "Quarterly";
+
+// cross promo
+"txt-189" = "We make apps that help you lead a happier and healthier life. Check them out!";
+"txt-190" = "Our Apps";
+
+//restModel
+"txt-191" = "REST";
+"txt-192" = "LATER";
+//onboarding paywall
+"txt-193" = "CLAIM OFFER";
+"txt-194" = "Get full access to our entire library of workouts, personal training plans, exclusive music, and more.";
+"txt-195" = "Was";
+"txt-196" = ", now only";
+"txt-197" = "Join now and get\n60% off Premium!";
+"txt-198" = "60% off";
+"txt-199" = "One-time offer";
+"txt-200" = "This is a one-time offer";
+"txt-201" = "Are you sure you want to decline it?";
+"txt-202" = "Yes, skip it";
+"txt-203" = "No, go back";
+//onboarding prepare
+"txt-204" = "Calculating metabolic rate";
+"txt-205" = "Adjusting workout difficulty";
+"txt-206" = "Preparing workout recommendations";
+"txt-207" = "Finalizing custom programs";
+"txt-208" = "Preparing Workouts...";
+//program tabBar
+"txt-209" = "In Progress";
+"txt-210" = "Sort by";
+"txt-211" = "Latest";
+"txt-212" = "Alphabetical";
+"txt-213" = "Your in progress programs\nwill show up here.";
+//pose library
+"txt-214" = "Learn The Pose";
+"txt-215" = "Poses";
+"txt-216" = "How to Tips";
+//music setting
+"txt-217" = "7M Music";
+"txt-218" = "Lower 3rd Party Music";
+"txt-219" = "Turn this off if you don't want us to lower the volume of your own music during a workout.";
+// three item subscription
+"txt-220" = "Get ﻿more with Premium";
+"txt-221" = "Exclusive personalized plans";
+"txt-222" = "Best Value";
+"txt-223" = "Most Popular";
+"txt-224" = "Try";
+"txt-225" = "Free Trail";
+//Quick Start
+"txt-226" = "Quick Start";
+"txt-227" = "Get a brand new workout every time!";
+
+"txt-228" = "Body Part";
+"txt-229" = "Focus";
+"txt-230" = "Type";
+
+"txt-231" = "Savasana Time";
+"txt-232" = "Total relaxation at the end of a yoga session.";
+
+"txt-233" = "SELECT";
+"txt-234" = "Please select at least two parts.";
+
+"txt-235" = "None";
+"txt-236" = "Butt and Thigh";
+"txt-237" = "Neck and Shoulder";
+"txt-238" = "Leg and Hamstring";
+"txt-239" = "Abs and Core";
+"txt-240" = "Back and Spine";
+"txt-241" = "Arm and Chest";
+"txt-242" = "Lower Back";
+
+"txt-243" = "Balance";
+"txt-244" = "Flexibility";
+"txt-245" = "Relaxation";
+"txt-246" = "Strength";
+
+"txt-247" = "Improve balance and overall performance in athletes.";
+"txt-248" = "Increase flexibility, especially for older adults.";
+"txt-249" = "Relieve stress, reduce anxiety and improve mental health.";
+"txt-250" = "Building strength and boost immunity system.";
+
+"txt-251" = "Hatha";
+"txt-252" = "Yin";
+"txt-253" = "Vinyasa";
+"txt-254" = "Restorative";
+
+"txt-255" = "Slower, has a lot of variety. No pushups.";
+"txt-256" = "Slow-paced style. Deep stretch, long holds.";
+"txt-257" = "A mix of standing poses. Movement is paired with the breath.";
+"txt-258" = "Relax, stretch. No standing poses.";

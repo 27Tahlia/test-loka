@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  yoga
+
+  Created by iOS-Programmer-01 on 2021/11/22.
+  Copyright © 2021 maning. All rights reserved.
+*/
+//CFBundleDisplayName = "Yoga";
+///权限
+NSCalendarsUsageDescription = "This app needs to access your calendar.";
+NSHealthShareUsageDescription = "We use your health and fitness data to customize workouts for you.";
+NSHealthUpdateUsageDescription = "Keep track of your workouts in the Health app.";
+NSPhotoLibraryAddUsageDescription = "This app needs to access and write to Photo Library.";
+NSPhotoLibraryUsageDescription = "This app needs to access your Photo Library.";
+NSUserTrackingUsageDescription = "Your data will be used to deliver a personalized experience and to improve our products and services.";
